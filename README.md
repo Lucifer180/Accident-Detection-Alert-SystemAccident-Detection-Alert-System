@@ -65,9 +65,13 @@ Copy
 Edit
 # Twilio credentials (use with caution)
 TWILIO_ACCOUNT_SID = ''      # Add your Twilio Account SID here
+
 TWILIO_AUTH_TOKEN = ''       # Add your Twilio Auth Token here
+
 TWILIO_SERVICE_SID = ''      # (Optional) Add Service SID if using Verification service
+
 TO_PHONE_NUMBER = ''         # Enter the emergency phone number (with country code)
+
 You can find these details in your Twilio Console.
 
 📝 Notes
